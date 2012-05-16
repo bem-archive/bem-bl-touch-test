@@ -1,0 +1,4 @@
+bem-bl
+pages-touch/*/*.*
+!pages-touch/.bem
+!pages-touch/*/*.bemjson.js

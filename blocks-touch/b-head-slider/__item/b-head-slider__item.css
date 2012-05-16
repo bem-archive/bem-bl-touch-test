@@ -1,0 +1,8 @@
+.b-head-slider__item
+{
+    height: 148px;
+
+    background-position: 50% 100%;
+    background-repeat: no-repeat;
+    background-size: auto 120px;
+}
